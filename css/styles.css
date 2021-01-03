@@ -1,0 +1,13 @@
+.Carlos {text-align: center; font: italic small-caps bold 16px/2 cursive;
+    font-size: 50px; line-height: 25px}
+.Nice {text-align: center; font: caption; font-size: 25px;}
+.My {text-align: center; font: italic small-caps bold 16px/2 cursive; font-size: 25px}
+.Some {text-align: center;}
+.Random {text-align: center; font: italic small-caps bold 16px/2 cursive; font-size: 25px}
+.Food {text-align: center;}
+.Movies {text-align: center;}
+.Pokémon {text-align: center;}
+.Work {text-align: center; font: italic small-caps bold 16px/2 cursive; font-size: 30px}
+.Education {text-align: center; font: italic small-caps bold 16px/2 cursive; font-size: 30px}
+.Publications {text-align: center; font: italic small-caps bold 16px/2 cursive; font-size: 30px}
+body {background-color: #fc9a8d}
